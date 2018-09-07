@@ -27,3 +27,5 @@ to access api explorer, go to http://localhost:3000/__explorer
 cd web
 yarn start
 ~~~
+username admin
+pw *1234#
